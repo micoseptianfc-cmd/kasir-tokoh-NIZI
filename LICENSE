@@ -1,20 +1,38 @@
-MIT License
+Copyright (c) 2026 Miko Septian. All rights reserved.
 
-Copyright (c) 2026 Miko Septian
+PROPRIETARY LICENSE AGREEMENT
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+NOTICE: This software and associated documentation files (the "Software") are the 
+exclusive intellectual property of Miko Septian, operating under the brand name MS.web. 
+Unauthorized copying, modification, distribution, or use of this Software, via any medium, 
+is strictly prohibited.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. GRANT OF LICENSE
+Subject to the terms of this Agreement, the author grants the designated client/user 
+a non-exclusive, non-transferable, limited right to install and utilize the Software 
+strictly for their internal retail business operations. No ownership rights are transferred.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, / OTHER
-LIABILITY, WHETHER IN AN ACTION, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+2. RESTRICTIONS
+You expressly agree NOT to:
+   a. Resell, sub-license, rent, lease, or commercially distribute the Software or any 
+      portion thereof to any third party.
+   b. Modify, translate, reverse engineer, decompile, disassemble, or create derivative 
+      works based upon the Software.
+   c. Remove, alter, or obscure any copyright notices, proprietary marks, or branding 
+      contained within the Software.
+   d. Grant unauthorized external access to the source code or utilize the Software 
+      for unauthorized multi-store deployment without prior explicit written consent from the author.
+
+3. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE 
+LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
+TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE 
+USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+4. LIMITATION OF LIABILITY
+The author shall not be held responsible or liable for any direct, indirect, incidental, 
+special, exemplary, or consequential damages (including, but not limited to, loss of data, 
+financial loss, system failure, or business interruption) arising from the deployment, 
+operation, or failure of this Software in any environment.
